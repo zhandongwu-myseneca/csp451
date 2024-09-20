@@ -7,4 +7,4 @@ The ﬁnal color of the text after resetting and pulling changes is darkolivegre
 
 
 
-Steps: 1. Create A new Branch: Under this new branch, change some content at index.html and commit it. Then push the changes to the remote repository. 2. Create conflict: Firstly, go back to main, then change some content at the same file in VSCode and push the change to remote repository again. 3. Resolve the conflict by VSCode: There will be a Merge Editor tab popped out when you open the VSCode. Use it to choose the current change or incoming change to complete merge.
+Steps: 1. Create a new branch: Under this new branch, change some content at index.html and commit it. Then push the changes to the remote repository. 2. Create conflict: Firstly, go back to main, then change some content at the same file in VSCode and push the change to remote repository again. 3. Resolve the conflict by VSCode: There will be a Merge Editor tab popped out when you open the VSCode. Use it to choose the current change or incoming change to complete merge.
